@@ -1097,7 +1097,7 @@
   <path d="m2089.7 31.357-4.1-142.5-42 108.1z" fill="#2f2960" stroke="#2f2960"/>
   <path d="m1965.3-117.94 120.3 6.8-210.8-16.2z" fill="#302a61" stroke="#302a61"/>
  </g>
- <g transform="matrix(1.1352 0 0 1.137 375.21 641.71)">
+ <g transform="matrix(1.1352 0 0 1.137 275.21 741.71)">
   <rect transform="matrix(.23886 0 0 .23886 -191.1 20.919)" x="181.2" y="338.42" width="406.41" height="405.68" ry="202.84" filter="url(#filter4487-5)"/>
   <rect x="-151.69" y="97.323" width="100.3" height="100.12" ry="50.062" fill="#ccc"/>
   <path d="m-132.95 110.85h61.054v61.054h-61.054z" fill="none" stroke-width=".28222"/>
